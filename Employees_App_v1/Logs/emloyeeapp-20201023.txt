@@ -1,0 +1,4 @@
+2020-10-23T18:46:33.6729184+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-23T18:46:34.1141254+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-23T18:46:34.1178108+05:30  [INF] Content root path: "C:\workspace\Employees_App_v1\Employees_App_v1" (b5d60022)
+2020-10-23T18:48:38.1549000+05:30 800004eb-0004-ff00-b63f-84710c7967bb [INF] Fetched all employees (06dbaa50)
